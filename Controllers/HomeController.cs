@@ -13,6 +13,8 @@ using Uni_Shop.Models;
 
 namespace Uni_Shop.Controllers
 {
+    //hhhhhhhhhhhhhhh
+    //kkkkkkkkkkkkkkkkkkk
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
